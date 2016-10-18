@@ -1,6 +1,8 @@
 # toastr
 
-# toastr_qt is a graphical update to toastr version 2.1.3, changing the way the default toasts look, and adding a bit of functionality not found in verison 2.1.3.
+## toastr_qt is a graphical update to toastr version 2.1.3, changing the way the default toasts look, and adding a bit of functionality not found in verison 2.1.3.
+
+![toastr_qt](http://i.imgur.com/z4WKj9E.png "Toastr_qt examples")
 
 
 
