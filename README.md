@@ -1,4 +1,10 @@
 # toastr
+
+# toastr_qt is a graphical update to toastr version 2.1.3, changing the way the default toasts look, and adding a bit of functionality not found in verison 2.1.3.
+
+
+
+
 **toastr** is a Javascript library for non-blocking notifications. jQuery is required. The goal is to create a simple core library that can be customized and extended.
 
 [![Build Status](https://travis-ci.org/CodeSeven/toastr.svg)](https://travis-ci.org/CodeSeven/toastr)
